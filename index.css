@@ -1,4 +1,12 @@
 .f1{
-    display:flex;
+    display:flex !important;
     flex-direction: column;
+}
+.img{
+    height:100px;
+    width:100px;
+}
+.col{
+    display: flex;
+    flex-direction: row;
 }
